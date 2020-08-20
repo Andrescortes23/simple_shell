@@ -36,6 +36,7 @@ $./hsh
     Exit the shell.
 
 .SH AUTHORS
+.NM
 Andres Cortes <1805@holbertonschool.com>.
 .PP
 Jhonnyer Otalvaro <1818@holbertonschool.com>.
