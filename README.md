@@ -2,11 +2,11 @@
 ----
 !["Holberton Logo"](https://www.holbertonschool.com/holberton-logo-twitter-card.png)
 
-## What is Simple shell?
+## What is Simple shell? 💻
 
 This is a simple implementation of  command-line interpreter for the Unix operating system created by holberton students **Andres Cortes** and **Jhonnyer Otalvaro**. 
 
-See [Unix Shell](https://en.wikipedia.org/wiki/Unix_shell)
+See [Unix Shell](https://en.wikipedia.org/wiki/Unix_shell) 📖
 
 <h2>Learning Objectives</h2>
 <p> At the end of this project, we are expected to be able to explain to anyone, <strong> whitout the help of Google </strong>:</p>
@@ -30,7 +30,7 @@ See [Unix Shell](https://en.wikipedia.org/wiki/Unix_shell)
 <li>What is <code>EOF</code> / &ldquo;end-of-file&rdquo;?</li>
 </ul>
 
-<h2>Requirements and Use</h2>
+<h2>Requirements and Use</h2>📌
 
 <h3>General</h3>
 <ul>
@@ -81,7 +81,7 @@ See [Unix Shell](https://en.wikipedia.org/wiki/Unix_shell)
 <li><code>write</code> (man 2 write)</li>
 </ul>
 
-## Files
+## Files 📋
 
 |   **File**   |   **Description**   |
 | -------------- | --------------------- |
@@ -100,12 +100,12 @@ See [Unix Shell](https://en.wikipedia.org/wiki/Unix_shell)
 | [_which.c](./_which.c) | find the path where is the command typed |
 | [tokenpath.c](./tokenpath.c) | create tokens from what user typed |
 
-## Installation
+## Installation 🚀
 Clone the repository. Compile the ".c" files. Run executable.
 ```
 $ git clone https://github.com/Jhonierk/test-simple_shell
 ```
-## Compilation
+## Compilation 💻
 
 Enter the following command to compile:
 ` $ gcc -Wall -Werror -Wextra -pedantic *.c -o hsh `
@@ -145,7 +145,7 @@ hsh main.c shell.c test_ls_2
 $
 ```
 
-## Authors
+## Authors ✒️
 
 * [**Andres Cortes**](https://github.com/Andrescortes23)
 * [**Jhonnyer Otalvaro**](https://github.com/Jhonierk)
